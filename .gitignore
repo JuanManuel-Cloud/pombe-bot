@@ -2,3 +2,7 @@
 .pylintrc
 #Visual Studio Code files
 .vscode
+#python cache
+*.pyc
+./__pycache__/
+./models/__pychache__
